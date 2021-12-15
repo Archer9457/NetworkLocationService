@@ -1,0 +1,3 @@
+//include ':networklocation'
+include ':app'
+rootProject.name = "NetworkLocation"
